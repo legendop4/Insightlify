@@ -1,18 +1,20 @@
 
 # Insightlify
-
+# Live demo - https://web-production-cf52f.up.railway.app/
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
 
 ## Description
 
-Insightlify is a Python project with no provided description.
+WhatsApp Chat Analyzer is an intuitive and powerful tool that helps you gain meaningful insights from your WhatsApp conversations. Whether it’s a group chat or a one-on-one conversation, this app breaks down your chat history into easy-to-understand statistics and visualizations.
 
 ## Key Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+1. User-wise Chat Statistics
+2.Text Analysis
+3.Media and Emoji Insights
+
+
 
 ## Installation
 
@@ -40,16 +42,6 @@ insight = Insight()
 result = insight.analyze(data)
 print(result)
 ```
-
-## API Documentation
-
-No API documentation provided.
-
-## Dependencies
-
-The project has the following dependencies:
-- Dependency 1
-- Dependency 2
 
 ## Contributing
 
